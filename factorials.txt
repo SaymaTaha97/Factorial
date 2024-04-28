@@ -1,0 +1,6 @@
+The factorial of 3 is 6.
+The factorial of 9 is 362880.
+The factorial of 8 is 40320.
+The factorial of 7 is 5040.
+The factorial of 5 is 120.
+The factorial of 2 is 2.
